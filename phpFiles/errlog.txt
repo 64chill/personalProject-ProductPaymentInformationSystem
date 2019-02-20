@@ -1,0 +1,7 @@
+﻿2018-10-11 | 10:18:38amKonekcija ka bazi neuspešna SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2018-10-28 | 11:04:06amKonekcija ka bazi neuspešna SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2018-10-28 | 11:04:06amKonekcija ka bazi neuspešna SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2018-10-28 | 11:04:06amKonekcija ka bazi neuspešna SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
